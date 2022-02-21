@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387702187672",
+    "project_id": "star-ball-cb75f",
+    "storage_bucket": "star-ball-cb75f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387702187672:android:38c14320775eca392bd2ed",
+        "android_client_info": {
+          "package_name": "betsave.sportsgames.bettingresults.realorder.moneycase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387702187672-4taocrq158peoi4kf1rrmmcdnauagn0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACFL-xOzjhXw25N6oPFa4WTjQYjxuigSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387702187672-4taocrq158peoi4kf1rrmmcdnauagn0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
